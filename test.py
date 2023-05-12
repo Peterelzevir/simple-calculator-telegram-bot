@@ -7,7 +7,7 @@ from telegram.ext import InlineQueryHandler
 from telegram import KeyboardButton, ReplyKeyboardMarkup
 
 #kilid e bot ro midim be code
-updater = Updater(token='1157914195:AAFyHoZEhkQH5jk0GZ2WIdYttI5U32hUN7E', use_context=True)
+updater = Updater(token='5631592767:AAFBFxmY4NgIoZfxn0sV85pwXx54PztsrAQ', use_context=True)
 #hame event haro bas bedim be in ke handle kone
 dispatcher = updater.dispatcher
 

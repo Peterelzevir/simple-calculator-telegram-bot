@@ -7,7 +7,7 @@ from telegram.ext import InlineQueryHandler
 from telegram import KeyboardButton, ReplyKeyboardMarkup
 import re
 
-updater = Updater(token='TOKEN', use_context=True)
+updater = Updater(token='5631592767:AAFBFxmY4NgIoZfxn0sV85pwXx54PztsrAQ', use_context=True)
 dispatcher = updater.dispatcher
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
